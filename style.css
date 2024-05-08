@@ -767,8 +767,8 @@
     }
     
     .section4 section img{
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
     }
     
     .section4 span{

@@ -21,3 +21,7 @@ document.getElementById("header").style.top = "4rem";
 document.getElementById("roll_back").style.display = "none";
 }
 }
+function sendEmail() 
+{
+    window.location.assign("mailto:xyz@abc.com");
+}

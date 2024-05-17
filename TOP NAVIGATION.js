@@ -23,5 +23,5 @@ document.getElementById("roll_back").style.display = "none";
 }
 function sendEmail() 
 {
-    window.location.assign("mailto:xyz@abc.com");
+    window.location.assign("mailto:bertramsolutions@gmail.com");
 }
